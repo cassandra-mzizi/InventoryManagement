@@ -1,0 +1,17 @@
+{
+    "name": "cassandra-mzizi/inventory-management",
+    "description": "A tool for inventory management",
+    "type": "project",
+    "authors": [
+        {
+            "name": "cassandra-mzizi"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\" : "src/Framework",
+            "App\\" : "src/App"
+        }
+    }
+}
